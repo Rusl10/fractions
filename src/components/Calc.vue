@@ -9,7 +9,10 @@ export default {
   data () {
     return {
       type: 'usual',
-      dataForPush: 'hello'
+      dataForPush: 'hello',
+      stringForPush: 'I am a string',
+      numForPush: 1,
+      booleanForPush: true
     }
   }
 }
