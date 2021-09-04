@@ -8,7 +8,8 @@ export default {
   name: 'Calc',
   data () {
     return {
-      type: 'usual'
+      type: 'usual',
+      dataForPush: 'hello'
     }
   }
 }
